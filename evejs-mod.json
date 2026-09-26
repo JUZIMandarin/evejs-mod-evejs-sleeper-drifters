@@ -1,0 +1,43 @@
+{
+  "id": "evejs-sleeper-drifters",
+  "displayName": "Sleeper & Drifter Playable Ships",
+  "version": "1.4.2",
+  "author": {
+    "id": "au-mueakz9fwyt6",
+    "name": "橘子",
+    "keyId": "bad8165273ee"
+  },
+  "description": "Adds native playable Sleeper and Drifter hulls with independent player type IDs, 8/8/8/3 slots, Lux Lance weapons, and a dedicated Drifter doomsday. The server automatically verifies and repairs local client resources on every start and logs the selected client path.",
+  "category": "玩法",
+  "tags": [
+    "sleeper",
+    "drifter",
+    "ships",
+    "weapons",
+    "ammo"
+  ],
+  "readme": [
+    "本模组包含服务端加载器、客户端 FSD 数据、服务端静态表和安装器。目标是让玩家使用根据原版流浪者冬眠者舰船添加的模组舰船。"
+  ],
+  "highlights": [],
+  "conflicts": [],
+  "requiresRestart": true,
+  "evejsVersions": [
+    "0.12.8"
+  ],
+  "sizeBytes": 83683735,
+  "sha256": "d94b4785d6e0147e083e6dd027bd894c80d78b365047d7aa96c0dd2288ada3d7",
+  "downloadUrls": [
+    {
+      "mirror": "github",
+      "url": "https://github.com/JUZIMandarin/evejs-mod-evejs-sleeper-drifters/releases/download/v1.4.2/evejs-sleeper-drifters-1.4.2.zip",
+      "priority": 1
+    }
+  ],
+  "changelog": "*增加八种玩家可以使用的冬眠者/流浪者舰船，所有模组舰船可以使用特有武器勒克斯之矛，两种旗舰舰船可以使用流浪者末日武器，也可以自由装配。\n*修复了模组可能找不到客户端游戏目录的问题\n*修复了两种流浪者武器的开火特效问题\n*修复了不同口径勒克斯之矛模型大小一致的问题\n*修复了冬眠者/流浪者舰船的阵营问题",
+  "history": [],
+  "repo": "https://github.com/JUZIMandarin/evejs-mod-evejs-sleeper-drifters",
+  "featured": false,
+  "delisted": false,
+  "publishedAt": "2026-09-26"
+}
