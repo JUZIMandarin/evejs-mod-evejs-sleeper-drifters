@@ -25,8 +25,8 @@
   "evejsVersions": [
     "0.12.8"
   ],
-  "sizeBytes": 12213435,
-  "sha256": "26e6999caccc67356abf0beafcf612aaa8538bfefdc345becc7ef55204633a5f",
+  "sizeBytes": 6902984,
+  "sha256": "ed739e45e1d7d7acfd6bc7ad44ef0328600dcf623d74f6f19ebebdae6b606b6b",
   "downloadUrls": [
     {
       "mirror": "github",
@@ -34,7 +34,7 @@
       "priority": 1
     }
   ],
-  "changelog": "增加了舰船加成说明\n修复了勒克斯之矛无法获得加成的问题\n修复了并组武器只有一组伤害的问题",
+  "changelog": "",
   "history": [],
   "repo": "https://github.com/JUZIMandarin/evejs-mod-evejs-sleeper-drifters",
   "featured": false,
