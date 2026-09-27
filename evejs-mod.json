@@ -1,13 +1,13 @@
 {
   "id": "evejs-sleeper-drifters",
   "displayName": "Sleeper & Drifter Playable Ships",
-  "version": "1.4.2",
+  "version": "1.4.5",
   "author": {
     "id": "au-mueakz9fwyt6",
     "name": "橘子",
     "keyId": "bad8165273ee"
   },
-  "description": "Adds native playable Sleeper and Drifter hulls with independent player type IDs, 8/8/8/3 slots, Lux Lance weapons, and a dedicated Drifter doomsday. The server automatically verifies and repairs local client resources on every start and logs the selected client path.",
+  "description": "Adds native playable Sleeper and Drifter hulls with independent player type IDs, 8/8/8/3 slots, Lux Lance weapons, a dedicated Drifter doomsday, corrected resistance-module fitting for player hulls, Tyrannos bonus info, and native fitting-simulation FSD resources.",
   "category": "玩法",
   "tags": [
     "sleeper",
@@ -25,19 +25,19 @@
   "evejsVersions": [
     "0.12.8"
   ],
-  "sizeBytes": 83683735,
-  "sha256": "0cb62c7395512e1bd9e81d3105f938671f5644a93099e256576d8398c84227eb",
+  "sizeBytes": 12213435,
+  "sha256": "26e6999caccc67356abf0beafcf612aaa8538bfefdc345becc7ef55204633a5f",
   "downloadUrls": [
     {
       "mirror": "github",
-      "url": "https://github.com/JUZIMandarin/evejs-mod-evejs-sleeper-drifters/releases/download/v1.4.2/evejs-sleeper-drifters-1.4.2.zip",
+      "url": "https://github.com/JUZIMandarin/evejs-mod-evejs-sleeper-drifters/releases/download/v1.4.5/evejs-sleeper-drifters-1.4.5.zip",
       "priority": 1
     }
   ],
-  "changelog": "",
+  "changelog": "增加了舰船加成说明\n修复了勒克斯之矛无法获得加成的问题\n修复了并组武器只有一组伤害的问题",
   "history": [],
   "repo": "https://github.com/JUZIMandarin/evejs-mod-evejs-sleeper-drifters",
   "featured": false,
   "delisted": false,
-  "publishedAt": "2026-09-26"
+  "publishedAt": "2026-09-27"
 }
