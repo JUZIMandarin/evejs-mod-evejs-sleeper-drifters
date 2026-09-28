@@ -8,8 +8,8 @@
   "changelog": "",
   "conflicts": [],
   "delisted": false,
-  "description": "添加了可玩的流浪者和冬眠者舰船。1.4.11 版本修复了模拟装配无法使用的问题，更新了部分舰船说明及属性。",
-  "displayName": "流浪者与冬眠者舰船拓展模组",
+  "description": "Adds playable Sleeper and Drifter hulls. 1.4.11 makes the startup guard remove stale guard markers and terminate the previous guard/server process pair before opening port 26000, fixing EADDRINUSE after a failed or overlapping start.",
+  "displayName": "Sleeper & Drifter Playable Ships",
   "downloadUrls": [
     {
       "mirror": "github",
@@ -18,7 +18,7 @@
     }
   ],
   "evejsVersions": [
-    "0.12.9"
+    "0.12.8"
   ],
   "featured": false,
   "highlights": [],
@@ -30,8 +30,8 @@
   ],
   "repo": "https://github.com/JUZIMandarin/evejs-mod-evejs-sleeper-drifters",
   "requiresRestart": true,
-  "sha256": "3b0b8f45d0bf0028e3860c4a5706cc56b9f0401e4aa1256a096778c24d6bba3c",
-  "sizeBytes": 18696444,
+  "sha256": "5d842cb7972a345692de4f2bf54f0c453f8dc2eb85f367487f136a69ff365643",
+  "sizeBytes": 18698698,
   "tags": [],
   "version": "1.5.0"
 }
